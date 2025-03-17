@@ -6,3 +6,4 @@ Chrome Extension
 game in extension. 
 Easter eggs?
 Spike tower defense
+Only up (don't look down)
