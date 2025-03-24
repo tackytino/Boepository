@@ -1,0 +1,11 @@
+<!DOCTYPE html> <!-- Tells the browser it's an HTML5 page -->
+<html> <!-- Start of the page -->
+  <head> <!-- Information about the page (e.g., title) -->
+    <title>My First Web Page</title> <!-- The title shown in the browser tab -->
+  </head>
+  <body> <!-- The content of the page (what you see on the screen) -->
+    <h1>Hello, World!</h1> <!-- This is a heading -->
+    <p>This is a paragraph of text.</p> <!-- This is a paragraph -->
+  </body>
+</html> <!-- End of the page -->
+
